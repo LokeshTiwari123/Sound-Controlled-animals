@@ -1,0 +1,33 @@
+body{
+    font-family: 'Lora', serif;
+    background: rgb(241, 206, 234);
+}
+.header_div{
+    background: white;
+    color: rgb(224, 22, 22);
+}
+.header_div p{
+    font-family: 'Mukta', sans-serif;
+    color: gray;
+    letter-spacing: 2px;
+    font-size:12px;
+    font-weight:bold;
+}
+.main_div button{
+    font-family: 'Mukta', sans-serif;
+    margin-top: 70px;
+    width: 130px;
+    font-weight: bolder;
+    letter-spacing: 3px;
+}
+.copy_right_footer{
+    position: fixed;
+    color: rgb(55, 55, 59);
+    bottom: 0;
+    width: 100%;
+    font-size: 18px;
+    background-color: antiquewhite;
+    line-height: 3;
+    text-align:center;
+    text-shadow: 5px 5px 5px rgb(151, 149, 149);
+}
